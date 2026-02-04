@@ -1,0 +1,8 @@
+{
+  "name": "MaVionix new",
+  "description": "All-in-One Multilingual Voice-First AI SaaS Platform for Rural SMEs with Carbon Tracking",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
