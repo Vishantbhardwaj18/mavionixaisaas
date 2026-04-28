@@ -687,20 +687,7 @@ const Website: React.FC<Props> = ({ onStart }) => {
                    <div>
                        <h4 className="font-bold text-emerald-900 mb-3 text-sm uppercase tracking-wide">School Team (Composite School, Ghijore)</h4>
                        <ul className="space-y-3">
-                           <li className="flex items-center gap-3">
-                               <div className="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-slate-600 font-bold text-xs">K</div>
-                               <div>
-                                   <p className="font-bold text-slate-800">Kunal</p>
-                                   <p className="text-xs text-slate-500">School Student</p>
-                               </div>
-                           </li>
-                           <li className="flex items-center gap-3">
-                               <div className="w-8 h-8 rounded-full bg-slate-100 flex items-center justify-center text-slate-600 font-bold text-xs">A</div>
-                               <div>
-                                   <p className="font-bold text-slate-800">Ankit</p>
-                                   <p className="text-xs text-slate-500">School Student</p>
-                               </div>
-                           </li>
+
                        </ul>
                    </div>
                </div>
