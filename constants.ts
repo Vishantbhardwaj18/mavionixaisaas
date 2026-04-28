@@ -648,7 +648,7 @@ const ENGLISH_UI = {
     missionTitle: "Our Mission",
     missionDesc: "To deliver high-quality, customized digital solutions that help small businesses scale.",
     faqTitle: "Frequently Asked Questions",
-    badge1: "Anveshana 2025-26 Project",
+    badge1: "DBMS Project 2025-26",
     badge2: "SDG Goal 9: Industry, Innovation & Infrastructure",
     metric1: "Low Cost Setup",
     metric2: "Power Independent",
