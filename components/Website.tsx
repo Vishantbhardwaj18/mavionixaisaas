@@ -677,7 +677,7 @@ const Website: React.FC<Props> = ({ onStart }) => {
                            <li className="flex items-center gap-3 border-t border-slate-100 pt-2 mt-2">
                                <div className="w-8 h-8 rounded-full bg-indigo-50 flex items-center justify-center text-indigo-600 font-bold text-xs">RG</div>
                                <div>
-                                   <p className="font-bold text-slate-800">Prof. Rolly Gupta</p>
+                                   <p className="font-bold text-slate-800">Dr. Rolly Gupta</p>
                                    <p className="text-xs text-slate-500">Project Guide</p>
                                </div>
                            </li>
@@ -685,9 +685,15 @@ const Website: React.FC<Props> = ({ onStart }) => {
                    </div>
                    
                    <div>
-                       <h4 className="font-bold text-emerald-900 mb-3 text-sm uppercase tracking-wide">School Team (Composite School, Ghijore)</h4>
+                       <h4 className="font-bold text-emerald-900 mb-3 text-sm uppercase tracking-wide">Head of Department (Computer Science & Engineering)</h4>
                        <ul className="space-y-3">
-
+<li className="flex items-center gap-3 border-t border-slate-100 pt-2 mt-2">
+                               <div className="w-8 h-8 rounded-full bg-indigo-50 flex items-center justify-center text-indigo-600 font-bold text-xs">RG</div>
+                               <div>
+                                   <p className="font-bold text-slate-800">Dr. Neelam Singh</p>
+                                   <p className="text-xs text-slate-500">HOD(CSE)</p>
+                               </div>
+                           </li>
                        </ul>
                    </div>
                </div>
